@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: winged-haloed-angel-holding-closed-book
+title: Half-length angel holding a closed book
+description: A half-length angel, the symbol of Matthew, seen to the waist with the head turned three-quarter to the left and the eyes looking left. Blond hair under a burnished gold halo with an orange rim and beaded border; a green mantle over a pale blue tunic; two long gold wings with mauve-red upper coverts spread to either side. Both hands hold a closed book with a gold cover dotted in red. Cut straight at the waist where the lintel of the arcade covered it; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - fantasy
+subjects:
+  - angel
+  - wings
+  - halo
+  - book
+  - robe
+colors:
+  - gold
+  - green
+  - red
+  - light-blue
+  - brown
+facing: left
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 15v
+render:
+  image: {}
+related:
+  - asset: walters-w7/twisted-column-arcade
+    role: companion
+  - asset: walters-w7/matthew-writing-at-lectern
+    role: companion
+usage_notes:
+  - Ends at the waist, so stand it on an edge or behind a band; on the page it rose above the lintel of fixed-twisted-column-arcade-with-scalloped-arch, its right wing crossing the apex of the arch.
+display_width:
+  - 300
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut straight at the waist as painted behind the lintel; the figure has no lower half.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Portrait of the Evangelist Matthew
+  object_identifier: W.7, fol. 15v
+  date: Middle of the 11th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad
+license: null

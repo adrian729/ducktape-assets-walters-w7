@@ -1,0 +1,60 @@
+# descriptive: find it and understand it
+id: haloed-frontal-ox-head-with-rose-wings
+title: Winged ox head, symbol of Luke
+description: The ox of Luke from the canon table, a frontal pale yellow ox head with two short gold horns, flared ears, dark brows and a long muzzle, inside a burnished gold halo with an orange rim and a beaded dark border. Two dusty rose-mauve wings spread to either side and droop below the halo. The lower edge is cut straight where the sill of the canon table covered it. The background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - ox
+  - cattle
+  - head
+  - horn
+  - halo
+  - wings
+  - evangelist
+colors:
+  - gold
+  - pink
+  - yellow
+  - brown
+facing: viewer
+view: front
+composition: single-figure
+
+# structural: how it is organised and related
+group: 1r
+render:
+  image: {}
+related:
+  - asset: walters-w7/haloed-eagle-head-with-pale-blue-wings
+    role: companion
+  - asset: walters-w7/haloed-frontal-lion-head-with-pale-gold-wings
+    role: companion
+  - asset: walters-w7/haloed-human-head-with-gold-wings
+    role: companion
+usage_notes:
+  - One of the four winged evangelist symbols of the canon table, all at the same scale; stand it on a rule or band to hide the cut lower edge.
+display_width:
+  - 150
+  - 450
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut straight along the bottom where the canon table's sill covered the body; the wing tips are worn to the parchment.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Canon table
+  object_identifier: W.7, fol. 1r
+  date: Middle of the 11th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6
+license: null

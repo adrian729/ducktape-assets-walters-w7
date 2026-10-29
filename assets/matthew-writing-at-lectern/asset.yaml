@@ -1,0 +1,60 @@
+# descriptive: find it and understand it
+id: matthew-writing-at-lectern
+title: Evangelist Matthew writing at his lectern
+description: The Evangelist Matthew sits on a gold bench with a blue cushion, turned to the right, his head raised and eyes looking up. He wears a pale blue tunic under a mauve-red mantle, holds a pen in his left hand over a gold lectern on a blue-grey stand and raises a pale knife in his right, with a red book with an orange clasp under his arm. His halo is deep blue with a beaded white rim and his hair is red. His bare feet rest on a red footstool. The background is transparent.
+type: illustration
+categories:
+  - humans
+  - reading
+subjects:
+  - evangelist
+  - man
+  - halo
+  - book
+  - lectern
+  - pen
+  - chair
+  - robe
+colors:
+  - gold
+  - red
+  - light-blue
+  - blue
+  - brown
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 15v
+render:
+  image: {}
+related:
+  - asset: walters-w7/twisted-column-arcade
+    role: companion
+  - asset: walters-w7/winged-haloed-angel-holding-closed-book
+    role: companion
+usage_notes:
+  - Complete seated figure with its furniture; on the page it sat between the columns of fixed-twisted-column-arcade-with-scalloped-arch, under winged-haloed-angel-holding-closed-book.
+display_width:
+  - 200
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the paint keeps the original crackle and small losses on the mantle and halo.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Portrait of the Evangelist Matthew
+  object_identifier: W.7, fol. 15v
+  date: Middle of the 11th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad
+license: null

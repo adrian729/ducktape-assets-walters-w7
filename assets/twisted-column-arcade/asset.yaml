@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: twisted-column-arcade
+title: Arcade with twisted columns and scalloped arch
+description: The architectural arcade of the Matthew portrait page, emptied of its figure. A red-brown semicircular arch with a white scalloped leaf pattern and a burnished gold inner band rests on a gold lintel painted with a row of small arches; two tall columns spiralled in red-brown and pale blue bands carry green acanthus capitals with orange leaves on blue-grey abaci and stand on orange bases over blue-grey and brown plinths. Open at the bottom. Only the paint is opaque; the inside of the arch and the surround are transparent.
+type: frame
+categories:
+  - geometric
+  - botanical
+subjects:
+  - arch
+  - column
+  - capital
+  - architecture
+  - acanthus
+colors:
+  - red
+  - gold
+  - brown
+  - green
+  - light-blue
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 15v
+render:
+  image: {}
+related:
+  - asset: walters-w7/matthew-writing-at-lectern
+    role: companion
+  - asset: walters-w7/winged-haloed-angel-holding-closed-book
+    role: companion
+usage_notes:
+  - Fixed picture frame, open at the bottom; scale it as a whole and place content between the columns. On the page it enclosed matthew-writing-at-lectern, with winged-haloed-angel-holding-closed-book above the lintel.
+  - The small notch at the apex of the gold band is where the angel's wing overlapped the arch; place the angel there to cover it.
+display_width:
+  - 600
+  - 1600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The columns lean slightly outward as painted, the bases sit at different heights, and the gold band of the arch has an unreconstructed notch at its apex where the angel's wing covered it.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Portrait of the Evangelist Matthew
+  object_identifier: W.7, fol. 15v
+  date: Middle of the 11th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad
+license: null
