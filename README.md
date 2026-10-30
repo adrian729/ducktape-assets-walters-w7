@@ -3,7 +3,7 @@
 
 The Evangelist Matthew writing at his lectern and a canon table with its arches, from Walters Ms. W.7, the Reichenau Gospels of the middle of the 11th century, grouped by folio.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w7`, historical, 7 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w7`, historical, 7 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `walters-w7/haloed-eagle-head-with-pale-blue-wings`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w7@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w7@1.0.0/webp/haloed-eagle-head-with-pale-blue-wings-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-walters-w7`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-walters-w7-masters`; never put a master on a page.
